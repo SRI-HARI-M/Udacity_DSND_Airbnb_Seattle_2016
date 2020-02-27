@@ -5,11 +5,13 @@
 - [Installation](#installation)
 - [Project motivation](#project-motivation)
 - [File descriptions](#file-descriptions)
+- [Udacity-Rubric] (#udacity-rubric)
+- [Summary](#summary)
 - [Results](#results)
 - [Creator](#creator)
-- [Git Repo] (#git repo)
-- [Blogpost] (#Blog)
-- [Thank you](#thank you)
+- [Git Repo] (#git-repo)
+- [Blogpost] (#Blogpost)
+- [Thank you](#thank-you)
 
 ## Installation
 
@@ -20,8 +22,24 @@ As per Udacity Data Scientist Nanodegree project Term 2 project to write a Data 
 
 ## File descriptions
 
-The project contains a Jupyter notebook where all the technical sides of the project has been conducted,
+The project contains a Jupyter notebook where all the technical sides of the project has been conducted, A .pdf of the Blogpost, Udacity Rubric as .pdf,
 A folder with the raw data and this readme file.
+
+## Udacity Rubric
+
+The project has satisfied all the requirements mentioned in the rubric. CRISP-DM techniques are used in answering the questions.
+
+## Summary
+
+Questions I chose from the Provided Seattle Airbnb data of 2016 are:
+1.Get good price on Airbnb?
+2.Get good reviews on Airbnb?
+3.Using ML to create better predicting Model?
+The project has followed the CRISP-DM methods. 
+I used Inferential statistics such as bar graphs, histograms and 2D plots in helping to visualize and clean data. 
+For Question 1, Since the requirement doesn't needed a ML technique, I used a heatmap to visuzlize and answer the question.
+For Question 2, Since the requirement doesn't needed a ML technique, I used a heatmap to visuzlize and answer the question.
+For Question 3, different ML techniques were used and the best one with good r2 score was chosen to answer the question.
 
 ## Results
 I found that the main driver for prices are how many people a listing can accommodate. Location is also very important aswell as aminities
@@ -33,7 +51,7 @@ such as TV, parking, Internet and air condition.Tourist prefer to rent an entire
 
 ## Git repo
 
-<https://github.com/SRI-HARI-M/Udacity_DSND_Airbnb_Seattle_2016>
+<https://github.com/SRI-HARI-M/Udacity_DSND_Airbnb_Seattle_2016/tree/SRI-HARI-M-patch-1>
 
 ## Blog
 
